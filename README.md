@@ -32,11 +32,11 @@
 <img src="https://github.com/shkurtajadela/img/blob/main/loading.png?raw=true" width="200">
 
 
-Когда Интернет отключен
+Когда интернет отключен
 
 <img src="https://github.com/shkurtajadela/img/blob/main/no_internet.png?raw=true" width="200">
 
 
-На аншлийском языке
+На английском языке
 
 <img src="https://github.com/shkurtajadela/img/blob/main/english_main_menu.png?raw=true" width="200">
