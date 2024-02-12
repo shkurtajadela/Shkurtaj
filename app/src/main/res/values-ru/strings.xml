@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shkurtaj</string>
+    <string name="popular">Популярные</string>
+    <string name="favorite">Избранное</string>
+    <string name="not_found">Не найдено</string>
+    <string name="search_for_favorite">Искать среди избранных</string>
+    <string name="search_for_populars">Искать среди популярных</string>
+    <string name="repeat">Повторить</string>
+    <string name="genres">Жанры</string>
+    <string name="countries">Страны</string>
+    <string name="internet_error">Произошла ошибка при загрузке данных, проверьте подключение к сети</string>
+</resources>
