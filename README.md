@@ -17,6 +17,11 @@
 <img src="https://github.com/shkurtajadela/img/blob/main/main_page.png?raw=true" width="200">
 
 
+Страница фильмa
+
+<img src="https://github.com/shkurtajadela/img/blob/main/card_film.png?raw=true" width="200">
+
+
 Выбираем фильм
 
 <img src="https://github.com/shkurtajadela/img/blob/main/choose_fav.png?raw=true" width="200">
